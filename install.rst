@@ -353,7 +353,7 @@ Verifying Mattermost Load Test
 
       platform -join_team -email="user@example.com" -team_name="team"
 
-You can now use your System Administrator account to login to Mattermost and view any of the channels where the simulated users are posting messages. 
+   You can now use your System Administrator account to login to Mattermost and view any of the channels where the simulated users are posting messages. 
 
 
 Estimating Performance 
